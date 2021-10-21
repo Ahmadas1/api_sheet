@@ -1,1 +1,5 @@
-https://sheetdb.io/api/v1/46z07yhztikwe
+[
+  {
+    "1": "سلام"
+  }
+]
